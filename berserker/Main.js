@@ -1,5 +1,4 @@
 
-
 berserkarator();
 
 function berserkarator() {
